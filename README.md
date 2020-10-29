@@ -1,5 +1,5 @@
 # KlopapierApp
-This is an **open sourced** Toiletpaper Finder Android App for Germany. This app is based on [this repository](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2 "dm-toilet-paper.js") written by [@marco79cgn](https://gist.github.com/marco79cgn). The dm stores list displays all (if I didn't miss any) dm Stores in Cologne, Germany. If you don't see your dm Store on the list you can still search for any dm store.
+This is an **open sourced** Toilet Paper Finder Android App for Germany. This app is based on [this repository](https://gist.github.com/marco79cgn/23ce08fd8711ee893a3be12d4543f2d2 "dm-toilet-paper.js") written by [@marco79cgn](https://gist.github.com/marco79cgn). The dm stores list displays all (if I didn't miss any) dm Stores in Cologne, Germany. If you don't see your dm Store on the list you can still search for any dm store.
 
 **Key features**
 * Realtime stock of toilet paper in DM stores.
