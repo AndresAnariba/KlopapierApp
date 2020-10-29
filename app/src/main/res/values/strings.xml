@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Klopapier Finder</string>
+
+    <!-- Drawer Items -->
+    <string name="menu_home">Klopapier</string>
+    <string name="menu_slideshow">Suche</string>
+
+    <!-- Home -->
+    <string name="show_nearest_shops">Nächste Läden anzeigen</string>
+    <string name="opened">GEÖFFNET</string>
+    <string name="closed">GESCHLOSSEN</string>
+    <string name="error_loading_location">Fehler beim Abrufen Ihres Standorts</string>
+
+    <!-- Search -->
+    <string name="search_explanation">Wenn du deinen Markt auf der Liste nicht finden kannst, trage deine Store ID in dem Eingabefeld ein. \n\n
+    Um deine Store ID zu ermitteln: \n\n
+        - Öffne die dm Shop Finder Seite ( https://www.dm.de/store ) \n
+        - Gib deine Postleitzahl ein und wähle den gewünschten Markt aus\n
+        - Klick dann auf "Weitere Details" \n\n
+    Die store id steht dann in der Browser URL, zum Beispiel "https://www.dm.de/store/de-2449/koeln/hohenzollernring-58" ist die store id 2449.</string>
+    <string name="search_hint">Shop ID</string>
+    <string name="search">Suchen</string>
+    <string name="no_shop_id">Bitte Shop ID eingeben</string>
+    <string name="error_shop">Fehler bei der Suche nach einem Markt mit der gegebenen Shop ID</string>
+
+
+</resources>
