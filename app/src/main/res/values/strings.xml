@@ -6,7 +6,7 @@
     <string name="menu_slideshow">Suche</string>
 
     <!-- Home -->
-    <string name="show_nearest_shops">Nächste Läden anzeigen</string>
+    <string name="show_nearest_shops">Nächste dm Märkte anzeigen</string>
     <string name="opened">GEÖFFNET</string>
     <string name="closed">GESCHLOSSEN</string>
     <string name="error_loading_location">Fehler beim Abrufen Ihres Standorts</string>
