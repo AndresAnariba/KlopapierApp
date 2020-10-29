@@ -9,6 +9,8 @@ This is an **open sourced** Toiletpaper Finder Android App for Germany. This app
 
 **Snapshots**
 
+<img src="https://github.com/AndresAnariba/KlopapierApp/blob/master/Screenshots_gif.gif" width="20%">
+
 # Installation
 
 This App is not, and is not planned for it to be on Google's PlayStore, so if you want to install it you'll have to install AndroidStudio, clone the repository and install it to your Android Device. (I know... I'm sorry)
@@ -20,6 +22,7 @@ If you have any ideas on how to improve this project, you are very welcome (and 
 # Todo
 
 * Get the ShopId by searching your dm Store in a Webview inside the app.
+* Save last searched ShopId on shared preferences and display it on the EditText.
 * ???
 
 # Disclaimer
