@@ -13,7 +13,15 @@ This is an **open sourced** Toiletpaper Finder Android App for Germany. This app
 
 # Installation
 
-This App is not, and is not planned for it to be on Google's PlayStore, so if you want to install it you'll have to install AndroidStudio, clone the repository and install it to your Android Device. (I know... I'm sorry)
+This App is not, and is not planned for it to be on Google's PlayStore. You can still install this app by following these steps:
+* Download the apk from [this](https://github.com/AndresAnariba/KlopapierApp/blob/master/app-debug.apk) url from your mobile device (in this example I will be using my Google Chrome webbrowser)
+* Click Open on the bottom tab
+* Android Phones can only install apps from the PlayStore by default. Luckily we can change this, so go to Settings on the tab that was recently opened.
+* Enable Google Chrome to install apps
+* Click install
+* Click open
+* Enjoy :)
+
 
 # Contribute 
 
