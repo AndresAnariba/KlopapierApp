@@ -25,6 +25,10 @@ If you have any ideas on how to improve this project, you are very welcome (and 
 * Save last searched ShopId on shared preferences and display it on the EditText.
 * ???
 
+# Acknowledgements
+
+Special thanks to [@marco79cgn](https://gist.github.com/marco79cgn) who had this great idea, kept his code open sourced, and took the time to search for the DANS of the toilet paper items!
+
 # Disclaimer
 
 As @marco79cgn said it, this is a project that was developed with the sole purpose of having fun, this is **NOT** an official Product from DM, it is not sponsored by anyone, and since it is not intended to generate money, it is and will remain open sourced. I do not own the dm API nor any information or pictures displayed on the app.
