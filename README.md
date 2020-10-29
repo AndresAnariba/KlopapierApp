@@ -31,6 +31,7 @@ If you have any ideas on how to improve this project, you are very welcome (and 
 
 # Todo
 
+* Choose City and get dm Shops from that city
 * Get the ShopId by searching your dm Store in a Webview inside the app.
 * Save last searched ShopId on shared preferences and display it on the EditText.
 * ???
