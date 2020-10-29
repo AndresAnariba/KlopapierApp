@@ -42,3 +42,5 @@ Special thanks to [@marco79cgn](https://gist.github.com/marco79cgn) who had this
 # Disclaimer
 
 As @marco79cgn said it, this is a project that was developed with the sole purpose of having fun, this is **NOT** an official Product from DM, it is not sponsored by anyone, and since it is not intended to generate money, it is and will remain open sourced. I do not own the dm API nor any information or pictures displayed on the app.
+
+Also, really important, I do **NOT** hope that people start bulk buying toilet paper again! This should be just a reference for people to know there's enough toilet paper for all of us 😅.
