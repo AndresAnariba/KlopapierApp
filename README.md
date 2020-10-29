@@ -27,7 +27,7 @@ This App is not, and is not planned for it to be on Google's PlayStore. You can 
 
 # Contribute 
 
-If you have any ideas on how to improve this project, you are very welcome (and ecnouraged!) to contribute to this project :).
+If you have any ideas on how to improve this project, you are very welcome (and encouraged!) to contribute to this project :).
 
 # Todo
 
